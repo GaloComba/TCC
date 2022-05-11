@@ -36,6 +36,9 @@
           .historia #timeline .timeline-badge img {
             margin: 0 53%;
         }
+        .banner{
+          margin-bottom: 5%;
+        }
         }
       
               /*-- 768px --*/
@@ -281,6 +284,9 @@ nav > .navbar > button{
 }
 #institucion{
   margin-bottom: 1%;
+}
+.institucion{
+  margin-top: 10%;
 }
 .btn-wsp{
   position: fixed;
