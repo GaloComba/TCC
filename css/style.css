@@ -39,6 +39,12 @@
         .banner{
           margin-bottom: 5%;
         }
+        .causale{
+          font-size: 12px;
+        }
+        li.importo{
+          font-size: 3px;
+        }
         }
       
               /*-- 768px --*/
@@ -184,6 +190,7 @@ nav > .navbar > button{
   border-radius: 10px;
   text-decoration: none;
   color: rgb(2, 136, 13);
+  font-weight: bold;
   margin-right: 2%;
   list-style: none;
   text-decoration: none;

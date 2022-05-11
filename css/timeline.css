@@ -1740,6 +1740,7 @@
       flex-direction: column;
       justify-content: space-between;
   }
+ 
   #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul li.img-wraping {
       width: 100%;
   }
