@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300&family=Concert+One&display=swap');
+/*
+font-family: 'Chivo', sans-serif; "textos"
+font-family: 'Concert One', cursive; "titulos"
+*/
+
 /*--------Start Section Historia------------*/
 #historia{
     margin-bottom: 10%;
@@ -1717,6 +1723,8 @@
       display: flex;
       flex-direction: column;
       justify-content: space-between;
+      font-family: 'Chivo', sans-serif;
+
   }
   #timeline .timeline-movement .timeline-item .timeline-panel.credits .timeline-panel-ul li {
     color: #666;
@@ -1739,6 +1747,7 @@
       display: flex;
       flex-direction: column;
       justify-content: space-between;
+      font-family: 'Chivo', sans-serif; 
   }
  
   #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul li.img-wraping {
@@ -1753,6 +1762,7 @@
     color: rgb(2, 136, 13);
     font-size: 1.3em;
     font-weight: 600;
+    font-family: 'Concert One', cursive;
   }
   #timeline .timeline-movement .timeline-item .timeline-panel.debits .timeline-panel-ul {
     text-align: left;
@@ -1761,6 +1771,7 @@
     color: rgb(2, 136, 13);
     font-size: 1.3em;
     font-weight: 600;
+  font-family: 'Concert One', cursive;
   }
   
   /*--------End Section Historia------------*/

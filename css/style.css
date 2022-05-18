@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300&family=Concert+One&display=swap');
+/*
+font-family: 'Chivo', sans-serif; "textos"
+font-family: 'Concert One', cursive; "titulos"
+*/
+
 * {margin: 0; 
     padding: 0;
 }
@@ -303,6 +309,11 @@ nav > .navbar > button{
   text-align: center;
   z-index: 100;
 }
+.institucion > .row > div > p{
+  font-family: 'Chivo', sans-serif;
+  text-align: justify;
+  margin: 0 auto;
+}
 
 /*--------End Section Institucion------------*/
 
@@ -339,3 +350,27 @@ nav > .navbar > button{
 }
 
 /*----------End Footer----------*/
+
+/*------ Start Pages ------*/
+.disciplina{
+  width: 65%;
+  text-align: justify;
+  font-family: 'Chivo', sans-serif;
+  margin: 0% auto;
+  color: #000000;
+}
+.disciplina > div{
+  margin-top: 7%;
+}
+.disciplina > h6{
+  font-family: 'Concert One', cursive;
+}
+.tittle{
+  margin-top: 7%;
+  text-align: center;
+  font-family: 'Concert One', cursive;
+  color: #000000;
+}
+.tittle > h5> u{
+  font-weight: bold;
+}
