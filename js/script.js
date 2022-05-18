@@ -78,7 +78,7 @@
         console.log("5");
     }
     function fncerraringresar(){
-        $(location).attr('href','#!')
+        $(location).attr('href','pages/ingreso.html')
         console.log("5");
     }
     
