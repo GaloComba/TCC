@@ -200,7 +200,6 @@ nav > .navbar > button{
   font-weight: bold;
   margin-right: 2%;
   list-style: none;
-  text-decoration: none;
 }
 .ingreso:hover{
   background-color: rgb(2, 136, 13);
@@ -331,7 +330,13 @@ nav > .navbar > button{
 #disciplinas{
   margin-bottom: 10%;
 }
-
+.cardImg{
+  text-align: center;
+}
+div > a > .cardImg > .card-img{
+  max-width: 300px;
+  height: auto;
+}
 /*--------End Section Disciplinas------------*/
 
 #contacto{
