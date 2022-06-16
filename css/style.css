@@ -281,9 +281,10 @@ nav > .navbar > button{
 .slides{
   text-align: center;
 }
-.slides > div{
-  margin: 0 1%;
+.slides > .imgBlock > .carousel > div > div > img{
+  height: 77vh;
 }
+
 /*-------- End Slider Vertical --------*/
 
 
